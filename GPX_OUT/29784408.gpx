@@ -1,0 +1,21 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>4201.56</distance>
+<average_hr>134.0</average_hr>
+<average_speed>2.1449999809265137</average_speed>
+<start_time>2017-12-22T13:35:27+00:00</start_time>
+<end_time>2017-12-22T14:08:05.916000+00:00</end_time>
+<moving_time>1619.0</moving_time>
+<elapsed_time>1958.916</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2017-12-22T13:35:27.000Z</time>
+  </metadata>
+  <trk>
+    <type>treadmill_running</type>
+    <trkseg/>
+  </trk>
+</gpx>
