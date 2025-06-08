@@ -65,9 +65,9 @@ TYPE_DICT = {
     "resort_skiing_snowboarding_ws": "Ski",  # garmin
     "AlpineSki": "Ski",  # strava
     "Ski": "Ski",
-    "Indoor Running": "Indoor Running",
-    "Strength Training": "Strength Training",
-    "Floor Climbing": "Floor Climbing",
+    "Indoor_Running": "Indoor Running",
+    "Strength_Training": "Strength Training",
+    "Floor_Climbing": "Floor Climbing",
     "Elliptical": "Elliptical",
 }
 
