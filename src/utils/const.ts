@@ -79,6 +79,11 @@ const HIKING_TITLE = IS_CHINESE ? '徒步' : 'Hiking';
 const CYCLING_TITLE = IS_CHINESE ? '骑行' : 'Cycling';
 const SKIING_TITLE = IS_CHINESE ? '滑雪' : 'Skiing';
 const WALKING_TITLE = IS_CHINESE ? '步行' : 'Walking';
+const STRENGTH_TITLE = IS_CHINESE ? '力量训练' : 'Strength Training';
+const FLOOR_TITLE = IS_CHINESE ? '爬楼' : 'Floor Climbing';
+const ELLIPTICAL_TITLE = IS_CHINESE ? '椭圆机' : 'Elliptical';
+const INDOORRUN_TITLE = IS_CHINESE ? '室内跑步' : 'Indoor Running';
+
 const ACTIVITY_COUNT_TITLE = IS_CHINESE ? '活动次数' : 'Activity Count';
 const MAX_DISTANCE_TITLE = IS_CHINESE ? '最远距离' : 'Max Distance';
 const MAX_SPEED_TITLE = IS_CHINESE ? '最快速度' : 'Max Speed';
@@ -100,6 +105,10 @@ const ACTIVITY_TYPES = {
   CYCLING_TITLE,
   SKIING_TITLE,
   WALKING_TITLE,
+  STRENGTH_TITLE,
+  FLOOR_TITLE,
+  ELLIPTICAL_TITLE,
+  INDOORRUN_TITLE,
 };
 
 const RUN_TITLES = {
